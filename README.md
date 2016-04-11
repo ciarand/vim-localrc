@@ -1,3 +1,5 @@
+This project is deprecated and unmaintained. Proceed with caution!
+
 vim-localrc
 ===========
 For more information, visit the script's [vim.org][] page.
